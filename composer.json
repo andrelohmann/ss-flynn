@@ -1,7 +1,7 @@
 {
   "name": "andrelohmann/ss-flynn",
   "require": {
-    "php": "~5.6.0",
+    "php": ">=5.5.9",
     "composer/installers": "*",
     "silverstripe/framework": "3.4.0",
     "andrelohmann-silverstripe/framework-errorpage-patch": "3.4.0",
@@ -18,7 +18,7 @@
   },
   "config": {
     "github-oauth": {
-      "github.com": "71aac66b2bef3bd4ec8313d5e752267f409b3095"
+
     }
   }
 }

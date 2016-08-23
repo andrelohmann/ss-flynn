@@ -1,4 +1,5 @@
 /nbproject
+/.vagrant
 /assets/*
 !/assets/.htaccess
 /framework/
@@ -7,3 +8,4 @@
 /themes
 /vendor
 /debug.log
+*.retry

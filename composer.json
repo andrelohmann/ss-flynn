@@ -5,7 +5,7 @@
     "composer/installers": "*",
     "silverstripe/framework": "3.4.0",
     "andrelohmann-silverstripe/framework-errorpage-patch": "3.4.0",
-    "andrelohmann-silverstripe-themes/bootstrap": "4.*",
+    "andrelohmann-silverstripe-themes/bootstrap": "4.*"
   },
   "minimum-stability": "stable",
   "scripts": {

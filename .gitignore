@@ -1,0 +1,9 @@
+/nbproject
+/assets/*
+!/assets/.htaccess
+/framework/
+/silverstripe-cache/
+/smtpmailer
+/themes
+/vendor
+/debug.log
